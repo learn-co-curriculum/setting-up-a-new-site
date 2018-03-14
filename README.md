@@ -22,7 +22,7 @@ editor. To add images, right click on the directory you'd like to add them to
 * To get started, click `OPEN IDE` to clone down a copy of this lesson. Once
   cloned, you will be able to add folders and files, as well as practice git
   commands.
-* Since you have already cloned down a copy of the lesson, you will already
+* Since you have already cloned down a copy of the lesson, you already
   have an initialized git repo. Running `git init` will work as normal, but
   trying to run `git remote add origin git@github.com:<YOUR_USERNAME>/exceptional-realty.git`
   will produce an error.
