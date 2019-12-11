@@ -82,7 +82,7 @@ repository locally, then create a remote repo and connect them.
 We've got our local work ready to go, so now we need to set up a new remote
 repository to store this in.
 
-* Open a new browser tab and go to <a href="github.com" target="_blank">github.com</a>
+* Open a new browser tab and go to <a href="https://www.github.com" target="_blank">github.com</a>
   and make sure you are signed in.
 * In the upper right-hand corner of the page, click the **`+`** button and
   choose **_New repository_**
